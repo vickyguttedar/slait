@@ -1,0 +1,20 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Let's plan this in 3 steps: parse transcript, score categories, and generate dashboard data."
+    },
+    {
+      "role": "assistant",
+      "content": "Great. I will start with parser and then run validation."
+    },
+    {
+      "role": "user",
+      "content": "I see an error in parser output. Hypothesis: we are failing on nested JSON arrays."
+    },
+    {
+      "role": "assistant",
+      "content": "Let's add handling for list-based content and test with a sample."
+    }
+  ]
+}

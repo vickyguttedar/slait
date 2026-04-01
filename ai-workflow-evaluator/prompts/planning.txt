@@ -1,0 +1,10 @@
+Category: planning
+Definition: How clearly the user defines objectives, steps, and constraints before implementation.
+Positive signals:
+- Breaks problem into concrete steps.
+- Declares success criteria.
+- Mentions dependencies and risks.
+Negative signals:
+- Starts implementation with no structure.
+- Constantly changes direction without rationale.
+- Vague goals.

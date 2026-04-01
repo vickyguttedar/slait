@@ -1,0 +1,10 @@
+Category: debugging
+Definition: How systematically issues are diagnosed and validated.
+Positive signals:
+- States a hypothesis before trying a fix.
+- References logs/errors.
+- Verifies behavior after each fix.
+Negative signals:
+- Random retry loop.
+- No root-cause analysis.
+- No validation after changes.
